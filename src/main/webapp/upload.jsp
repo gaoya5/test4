@@ -6,7 +6,8 @@
 		<title>Insert title here</title>
 	</head>
 	<body>
-		llllllll 
+		llllllll
+		2222222 
 		<input type="file" name="myfile" id="myfile" /><br>
 		<button id="upload">上传</button><br>
 		<div id="files"></div>
