@@ -5,7 +5,8 @@
 	<head>
 		<title>Insert title here</title>
 	</head>
-	<body> 
+	<body>
+		llllllll 
 		<input type="file" name="myfile" id="myfile" /><br>
 		<button id="upload">上传</button><br>
 		<div id="files"></div>
